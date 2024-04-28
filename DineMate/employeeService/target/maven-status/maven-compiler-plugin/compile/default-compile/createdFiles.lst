@@ -1,0 +1,9 @@
+com\ood\employeeService\EmployeeServiceApplication.class
+com\ood\employeeService\model\Task.class
+com\ood\employeeService\model\ApprovalRequests.class
+com\ood\employeeService\model\Employee.class
+com\ood\employeeService\model\Shift.class
+com\ood\employeeService\model\Status.class
+com\ood\employeeService\model\PayrollDetails.class
+com\ood\employeeService\model\DailySchedule.class
+com\ood\employeeService\model\Role.class
